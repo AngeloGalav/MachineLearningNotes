@@ -1,0 +1,787 @@
+{
+  "strategy": "english-only",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "learning": {
+      "learning": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1667569069716
+        }
+      }
+    },
+    "represent": {
+      "represent": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668166491239
+        }
+      }
+    },
+    "algorithm": {
+      "algorithm": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667566656727
+        }
+      }
+    },
+    "interesting": {
+      "interesting": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666959069669
+        }
+      }
+    },
+    "information": {
+      "information": {
+        "currentVault": {
+          "count": 6,
+          "lastUpdated": 1668777988061
+        }
+      }
+    },
+    "probability": {
+      "probability": {
+        "currentVault": {
+          "count": 4,
+          "lastUpdated": 1668166494225
+        }
+      }
+    },
+    "different": {
+      "different": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668355285938
+        }
+      }
+    },
+    "threshold": {
+      "threshold": {
+        "currentVault": {
+          "count": 5,
+          "lastUpdated": 1667562544178
+        }
+      }
+    },
+    "supervised": {
+      "supervised": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1668357562690
+        }
+      }
+    },
+    "characteristics": {
+      "characteristics": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668166235476
+        }
+      }
+    },
+    "completely": {
+      "completely": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667562904324
+        }
+      }
+    },
+    "training": {
+      "training": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667991534412
+        }
+      }
+    },
+    "dataset": {
+      "dataset": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668166647378
+        }
+      }
+    },
+    "pruning": {
+      "pruning": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666953243442
+        }
+      }
+    },
+    "essentially": {
+      "essentially": {
+        "currentVault": {
+          "count": 4,
+          "lastUpdated": 1667393965300
+        }
+      }
+    },
+    "classification": {
+      "classification": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668356843231
+        }
+      }
+    },
+    "frequency": {
+      "frequency": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1667389018995
+        }
+      }
+    },
+    "\\dots": {
+      "\\dots": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667392163737
+        }
+      }
+    },
+    "Essentially": {
+      "Essentially": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1668167487292
+        }
+      }
+    },
+    "prediction": {
+      "prediction": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666958149305
+        }
+      }
+    },
+    "frequencies": {
+      "frequencies": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666958231192
+        }
+      }
+    },
+    "interpretability": {
+      "interpretability": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666958425808
+        }
+      }
+    },
+    "consequence": {
+      "consequence": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668166384934
+        }
+      }
+    },
+    "Specific": {
+      "Specific": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666958882516
+        }
+      }
+    },
+    "Sensitivity": {
+      "Sensitivity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666958940335
+        }
+      }
+    },
+    "between": {
+      "between": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666959036051
+        }
+      }
+    },
+    "configuration": {
+      "configuration": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1666959155199
+        }
+      }
+    },
+    "accuracy": {
+      "accuracy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666960034076
+        }
+      }
+    },
+    "knowledge": {
+      "knowledge": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668354317538
+        }
+      }
+    },
+    "summarized": {
+      "summarized": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667386840869
+        }
+      }
+    },
+    "Classifier": {
+      "Classifier": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667387270710
+        }
+      }
+    },
+    "theorem": {
+      "theorem": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667388075968
+        }
+      }
+    },
+    "statistics": {
+      "statistics": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667389287665
+        }
+      }
+    },
+    "perceptron": {
+      "perceptron": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1667562807460
+        }
+      }
+    },
+    "negatives": {
+      "negatives": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667392069977
+        }
+      }
+    },
+    "separable__": {
+      "separable__": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667393425367
+        }
+      }
+    },
+    "binary": {
+      "binary": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667393455097
+        }
+      }
+    },
+    "parameters": {
+      "parameters": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667569294685
+        }
+      }
+    },
+    "drawbacks": {
+      "drawbacks": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667393565108
+        }
+      }
+    },
+    "problem": {
+      "problem": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667393619394
+        }
+      }
+    },
+    "separating": {
+      "separating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667393690565
+        }
+      }
+    },
+    "hyperplane": {
+      "hyperplane": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667393840124
+        }
+      }
+    },
+    "something": {
+      "something": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667566668509
+        }
+      }
+    },
+    "because": {
+      "because": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667562866340
+        }
+      }
+    },
+    "networks": {
+      "networks": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1667569291264
+        }
+      }
+    },
+    "similar": {
+      "similar": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667566666871
+        }
+      }
+    },
+    "iterations": {
+      "iterations": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667566706360
+        }
+      }
+    },
+    "minimum": {
+      "minimum": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667568099949
+        }
+      }
+    },
+    "derivatives": {
+      "derivatives": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667567615952
+        }
+      }
+    },
+    "error": {
+      "error": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667567569740
+        }
+      }
+    },
+    "sigmoid": {
+      "sigmoid": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667567624185
+        }
+      }
+    },
+    "backward": {
+      "backward": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667567779614
+        }
+      }
+    },
+    "point": {
+      "point": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667568095425
+        }
+      }
+    },
+    "neural": {
+      "neural": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667569261776
+        }
+      }
+    },
+    "K-nearest": {
+      "K-nearest": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667569374031
+        }
+      }
+    },
+    "general": {
+      "general": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667991580072
+        }
+      }
+    },
+    "ensemble": {
+      "ensemble": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667990917728
+        }
+      }
+    },
+    "pmatrix": {
+      "pmatrix": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667990963390
+        }
+      }
+    },
+    "obtain": {
+      "obtain": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667991537503
+        }
+      }
+    },
+    "independence": {
+      "independence": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667991542624
+        }
+      }
+    },
+    "manipulation": {
+      "manipulation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667991554902
+        }
+      }
+    },
+    "before": {
+      "before": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668165232193
+        }
+      }
+    },
+    "preprocessing": {
+      "preprocessing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668165274619
+        }
+      }
+    },
+    "AggregationS": {
+      "AggregationS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668165289373
+        }
+      }
+    },
+    "validation": {
+      "validation": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668165930473
+        }
+      }
+    },
+    "sampling": {
+      "sampling": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668166009752
+        }
+      }
+    },
+    "important": {
+      "important": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668166209251
+        }
+      }
+    },
+    "Stratification": {
+      "Stratification": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668166214816
+        }
+      }
+    },
+    "elements": {
+      "elements": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668166572180
+        }
+      }
+    },
+    "Dimensionality": {
+      "Dimensionality": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668167146353
+        }
+      }
+    },
+    "reduction": {
+      "reduction": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668167148956
+        }
+      }
+    },
+    "Principal": {
+      "Principal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668167213501
+        }
+      }
+    },
+    "Component": {
+      "Component": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668167215810
+        }
+      }
+    },
+    "Analisys": {
+      "Analisys": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668167217996
+        }
+      }
+    },
+    "variability": {
+      "variability": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668167336673
+        }
+      }
+    },
+    "eighenvector": {
+      "eighenvector": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668167462094
+        }
+      }
+    },
+    "dimension": {
+      "dimension": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668167609873
+        }
+      }
+    },
+    "distance": {
+      "distance": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668172296998
+        }
+      }
+    },
+    "process": {
+      "process": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668354267447
+        }
+      }
+    },
+    "Pipeline": {
+      "Pipeline": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668354447444
+        }
+      }
+    },
+    "Discovery": {
+      "Discovery": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668354581466
+        }
+      }
+    },
+    "dedurre": {
+      "dedurre": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668356293861
+        }
+      }
+    },
+    "related": {
+      "related": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668356839823
+        }
+      }
+    },
+    "activity": {
+      "activity": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668356870617
+        }
+      }
+    },
+    "mining__": {
+      "mining__": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668357170038
+        }
+      }
+    },
+    "unsupervised": {
+      "unsupervised": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668357575145
+        }
+      }
+    },
+    "contents": {
+      "contents": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668358803818
+        }
+      }
+    },
+    "Clustering": {
+      "Clustering": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668776540707
+        }
+      }
+    },
+    "label": {
+      "label": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668778007900
+        }
+      }
+    },
+    "Virtuale": {
+      "Virtuale": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668778281407
+        }
+      }
+    },
+    "Links": {
+      "Links": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668778289849
+        }
+      }
+    },
+    "principle": {
+      "principle": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669375940532
+        }
+      }
+    }
+  }
+}

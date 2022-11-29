@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "3927262ce7c00f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad0bc27a855fe96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ec9e7d40a7144a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-16 - ❌0%.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36be395951f9837b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a377f7814bf5577e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-21 - ❌40%.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db0f6527722bad81",
+    "type": "split",
+    "children": [
+      {
+        "id": "d369faa447581c3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5064ef657dcb8744",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1425e72e0b870fff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f18832e6b9221044",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6c39e1e4b18f9ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c370a91875fba98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e1a934dee787d76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-11-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d18e19ab9a5cd774",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-11-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2927aa8bc8c2da1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2280d03d1e17f83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-11-25.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "36be395951f9837b",
+  "lastOpenFiles": [
+    "2022-11-18 - ❌ - idk.md",
+    "Intro.md",
+    "2022-11-16 - ❌0%.md",
+    "2022-10-14 - Initial concepts & vocabulary.md",
+    "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md",
+    "2022-11-09 - ❌3% - Ensemble methods.md",
+    "2022-11-04 - ❌15%.md",
+    "2022-11-02 - ❌60%.md",
+    "2022-10-28 - ❌5%.md",
+    "2022-10-26 - ❌20%.md"
+  ]
+}
