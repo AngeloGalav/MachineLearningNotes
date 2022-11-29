@@ -11,40 +11,14 @@
             "id": "73ec9e7d40a7144a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "2022-11-16 - ❌0%.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36be395951f9837b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a377f7814bf5577e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-21 - ❌40%.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,29 +121,35 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-11-25.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "475a83b4f0f40678",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "36be395951f9837b",
+  "active": "73ec9e7d40a7144a",
   "lastOpenFiles": [
+    "2022-11-16 - ❌0%.md",
+    "2022-10-21 - ❌40%.md",
+    "2022-11-25.md",
     "2022-11-18 - ❌ - idk.md",
     "Intro.md",
-    "2022-11-16 - ❌0%.md",
     "2022-10-14 - Initial concepts & vocabulary.md",
     "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md",
     "2022-11-09 - ❌3% - Ensemble methods.md",
     "2022-11-04 - ❌15%.md",
-    "2022-11-02 - ❌60%.md",
-    "2022-10-28 - ❌5%.md",
-    "2022-10-26 - ❌20%.md"
+    "2022-11-02 - ❌60%.md"
   ]
 }
