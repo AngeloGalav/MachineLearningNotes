@@ -10,14 +10,14 @@ Course page: [here](https://www.unibo.it/en/teaching/course-unit-catalogue/cours
 
 # Lessons' topics:
 
--   What is Machine Learning: some history and motivating examples
--   Theory of learning
--   Supervised vs unsupervised learning
--   Classification and regression
--   Model Selection, validation and presentation of results
--   Regression
--   Classification with linear discrimination, decision trees, Bayesian inference, Support Vector Machines, k-nearest neighbors, logistic regression, random forests, adaboost
--   Ensemble learning, boosting, bagging
--   Association rules and the Apriori algorithm
--   Clustering/segmentation with k-means, dbscan, Expectation Maximization, hierarchical methods, kernel methods
--   Analysis of case studies
+- What is Machine Learning: some history and motivating examples
+- Theory of learning
+- Supervised vs unsupervised learning
+- Classification and regression
+- Model Selection, validation and presentation of results
+- Regression
+- Classification with linear discrimination, decision trees, Bayesian inference, Support Vector Machines, k-nearest neighbors, logistic regression, random forests, adaboost
+- Ensemble learning, boosting, bagging
+- Association rules and the Apriori algorithm
+- Clustering/segmentation with k-means, dbscan, Expectation Maximization, hierarchical methods, kernel methods
+-  Analysis of case studies

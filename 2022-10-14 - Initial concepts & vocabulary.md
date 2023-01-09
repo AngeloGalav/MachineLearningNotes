@@ -112,7 +112,7 @@ There are two main ways to obtain supervised information:
 - learn: a policy 
 - how: try a policy – get a reward – change the policy focus: the overall policy, rather than the single actions
 
-[orphan notes...]
+\[the following are orphan notes...\]
 ## Decision Process
 The __decision process__ 
 
