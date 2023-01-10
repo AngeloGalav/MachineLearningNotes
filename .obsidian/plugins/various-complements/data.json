@@ -94,6 +94,62 @@
           "lastUpdated": 1673294458838
         }
       }
+    },
+    "values": {
+      "values": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673381562554
+        }
+      }
+    },
+    "attributes": {
+      "attributes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673381592980
+        }
+      }
+    },
+    "identifier": {
+      "identifier": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673381596060
+        }
+      }
+    },
+    "necessarily": {
+      "necessarily": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673381861558
+        }
+      }
+    },
+    "patterns": {
+      "patterns": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673381946949
+        }
+      }
+    },
+    "Transactional_data": {
+      "Transactional_data": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673382319815
+        }
+      }
+    },
+    "data__": {
+      "data__": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1673382347072
+        }
+      }
     }
   }
 }

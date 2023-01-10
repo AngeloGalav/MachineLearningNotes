@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro.md",
+                "file": "2022-10-19 -  The Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro.md",
+                "file": "2022-10-19 -  The Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro.md",
+                "file": "2022-10-19 -  The Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro.md"
+                "file": "2022-10-19 -  The Data.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +157,15 @@
   },
   "active": "73ec9e7d40a7144a",
   "lastOpenFiles": [
+    "Intro.md",
     "images/example_data_types.png",
     "images/allowed_transformations_on_data.png",
-    "2022-10-19 - ❌60%  -  The Data.md",
+    "2022-10-19 -  The Data.md",
     "2022-10-21 - ❌40%.md",
     "2022-11-25.md",
     "2022-11-18 - ❌ - idk.md",
     "2022-11-16 - ❌0%.md",
     "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md",
-    "2022-11-09 - ❌3% - Ensemble methods.md",
-    "2022-11-04 - ❌15%.md"
+    "2022-11-09 - ❌3% - Ensemble methods.md"
   ]
 }
