@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro.md",
+                "file": "2022-10-26 - Classification II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro.md",
+                "file": "2022-10-26 - Classification II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro.md",
+                "file": "2022-10-26 - Classification II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro.md"
+                "file": "2022-10-26 - Classification II.md"
               }
             }
           },
@@ -154,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f420d4931987ee3b",
+  "active": "5064ef657dcb8744",
   "lastOpenFiles": [
-    "README.md",
+    "2022-10-21 - Classification I.md",
+    "2022-10-26 - Classification II.md",
     "Intro.md",
+    "README.md",
     "images/Screenshot_20230120_153127.png",
     "2022-10-14 - Initial concepts & vocabulary.md",
     "images/transactional_data.png",
     "images/iris_example_ig.png",
     "images/classification_workflow.png",
-    "images/decision_function_example_2.png",
-    "images/pairplot_example.png",
-    "2022-10-26 - ❌20%.md"
+    "images/decision_function_example_2.png"
   ]
 }

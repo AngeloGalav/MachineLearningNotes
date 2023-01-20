@@ -237,3 +237,16 @@ To generate a decision tree:
 - choose the attribute giving the highest IG 
 - partition the dataset according to the chosen attribute 
 - choose as class label of each partition the majority
+
+### Decision tree example
+![[decision_tree_example.png]]
+In this case, our decision tree considers the whole iris dataset. 
+The more we go deep in this tree, the less confusion about classification there is: we can see this cleary in the leaves, where the entropy is 0.  
+
+In this examples, also, the entropy from a node to another sometimes increases. This is because we are considering a weighted entropy on the whole layer (depth), and not for the whole tree. 
+So, for example, we have entropy 1.224 weighted with 12% etc...
+
+Let's consider the last white leaf on the right. As we can see, the entropy of this leaf is 1.0, and the value is \[0.5, 0.5, 0\], meaning that this leaf _has individuals of two different classes_. And there's no attribute capable of giving us an information gain: we can't go any further ein the decision process.  
+This is due to a __training set error__: either my model or the data are not able to discreminate completely the population. So, my model is not able to determine completely the ground truth. 
+
+We will see the training set error in the next lesson.  
