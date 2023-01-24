@@ -12,6 +12,7 @@
     "multiclass",
     "NNs",
     "OVR",
-    "OVO"
+    "OVO",
+    "Adaboost"
   ]
 }

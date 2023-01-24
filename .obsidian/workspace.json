@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cef8741c8e8cbb69",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/sigmoid_function.png"
-              }
-            }
-          },
-          {
             "id": "cc8316060671137a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-09 - ❌3% - Ensemble methods.md",
+                "file": "2022-10-14 - Initial concepts & vocabulary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e6c39e1e4b18f9ea",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-09 - ❌3% - Ensemble methods.md",
+                "file": "2022-10-14 - Initial concepts & vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-09 - ❌3% - Ensemble methods.md",
+                "file": "2022-10-14 - Initial concepts & vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-09 - ❌3% - Ensemble methods.md"
+                "file": "2022-10-14 - Initial concepts & vocabulary.md"
               }
             }
           },
@@ -168,15 +156,15 @@
   },
   "active": "cc8316060671137a",
   "lastOpenFiles": [
-    "2022-11-04  - SVMs, Neural Networks.md",
-    "2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing.md",
-    "images/sigmoid_function.png",
-    "images/some_kernel_functions.png",
-    "images/svm_non_linear.png",
-    "images/kn_explanation.png",
-    "images/narrow_margin.png",
-    "images/decision_boundaries_examples.png",
-    "2022-11-09 - ❌3% - Ensemble methods.md",
-    "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md"
+    "2022-11-09 - Ensemble methods, Regression.md",
+    "2022-10-14 - Initial concepts & vocabulary.md",
+    "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md",
+    "2022-11-16 - ❌0%.md",
+    "2022-11-25 - ❌0%.md",
+    "2022-11-23 - ❌0%.md",
+    "2022-11-18 - ❌0% - idk.md",
+    "2022-11-04  - SVMs, Neural Networks (Classification III).md",
+    "2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md",
+    "2022-10-28 - Evaluation of performance of a classifier (Classification II).md"
   ]
 }
