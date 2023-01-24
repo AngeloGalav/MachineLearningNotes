@@ -2,6 +2,7 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "realistic-highlight",
-    "test"
+    "test",
+    "colors"
   ]
 }

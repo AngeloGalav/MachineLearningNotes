@@ -234,8 +234,8 @@
     "probability": {
       "probability": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1674224435501
+          "count": 5,
+          "lastUpdated": 1674522338716
         }
       }
     },
@@ -332,6 +332,190 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1674235121119
+        }
+      }
+    },
+    "general": {
+      "general": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674326685624
+        }
+      }
+    },
+    "variability": {
+      "variability": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674327443863
+        }
+      }
+    },
+    "bernoulli": {
+      "bernoulli": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674328036609
+        }
+      }
+    },
+    "binary": {
+      "binary": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674328065540
+        }
+      }
+    },
+    "repetition": {
+      "repetition": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674328063404
+        }
+      }
+    },
+    "Bernoulli": {
+      "Bernoulli": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674328122470
+        }
+      }
+    },
+    "frequency": {
+      "frequency": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1674518846807
+        }
+      }
+    },
+    "pessimistic": {
+      "pessimistic": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674491392371
+        }
+      }
+    },
+    "evaluation": {
+      "evaluation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674411417462
+        }
+      }
+    },
+    "empirical": {
+      "empirical": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674411422817
+        }
+      }
+    },
+    "observe": {
+      "observe": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674414768523
+        }
+      }
+    },
+    "uncertainty": {
+      "uncertainty": {
+        "currentVault": {
+          "count": 5,
+          "lastUpdated": 1674491707105
+        }
+      }
+    },
+    "elements": {
+      "elements": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674491691572
+        }
+      }
+    },
+    "hyperparameters": {
+      "hyperparameters": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674518200733
+        }
+      }
+    },
+    "Cross-validation": {
+      "Cross-validation": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674494440104
+        }
+      }
+    },
+    "output": {
+      "output": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674495300389
+        }
+      }
+    },
+    "shortly": {
+      "shortly": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674518186519
+        }
+      }
+    },
+    "setting": {
+      "setting": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674518205957
+        }
+      }
+    },
+    "statistic": {
+      "statistic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674521190516
+        }
+      }
+    },
+    "\\dfrac": {
+      "\\dfrac": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674521269885
+        }
+      }
+    },
+    "classes": {
+      "classes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674522164836
+        }
+      }
+    },
+    "viceversa": {
+      "viceversa": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674522362868
+        }
+      }
+    },
+    "liftchart": {
+      "liftchart": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674522423088
         }
       }
     }

@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50388bb0b20b89ea",
+        "id": "b9c0e5469b7c8898",
         "type": "tabs",
         "children": [
           {
-            "id": "f420d4931987ee3b",
+            "id": "ff323ce40ff6ed32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2022-10-26 - Classification II.md",
-                "mode": "source",
-                "source": false
+                "file": "images/test_set_error.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "overfitting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-26 - Classification II.md",
+                "file": "images/test_set_error.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-26 - Classification II.md",
+                "file": "images/test_set_error.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-26 - Classification II.md"
+                "file": "images/test_set_error.png"
               }
             }
           },
@@ -156,15 +154,15 @@
   },
   "active": "5064ef657dcb8744",
   "lastOpenFiles": [
-    "2022-10-21 - Classification I.md",
-    "2022-10-26 - Classification II.md",
-    "Intro.md",
-    "README.md",
-    "images/Screenshot_20230120_153127.png",
-    "2022-10-14 - Initial concepts & vocabulary.md",
-    "images/transactional_data.png",
-    "images/iris_example_ig.png",
-    "images/classification_workflow.png",
-    "images/decision_function_example_2.png"
+    "Screenshot_20230124_013314.png.md",
+    "images/real_cross_validation_example.png",
+    "images/K_rule_thumbs.png",
+    "images/beyond_3.png",
+    "2022-10-28 - Evaluation of performance of a classifier (Classification II).md",
+    "2022-11-02 - ❌60%.md",
+    "images/combination_strategies.png",
+    "images/f1_score_visualization.png",
+    "Screenshot_20230124_011940.png.md",
+    "2022-10-26 - Classification II.md"
   ]
 }
