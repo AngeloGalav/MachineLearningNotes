@@ -7,6 +7,11 @@
     "entropies",
     "Scikit",
     "Pairplots",
-    "__: alte"
+    "__: alte",
+    "NN",
+    "multiclass",
+    "NNs",
+    "OVR",
+    "OVO"
   ]
 }

@@ -1,5 +1,5 @@
 # Ensemble methods
-Ensemble methods (aka Classifier combination) is based on training a set of __base classifiers.__
+Ensemble methods (aka Classifier combination) is based on the idea that instead of using a single classifier, we can use  training a set of __base classifiers.__
 The final prediction is obtained taking the votes of the base classifiers.
 In general, ensemble methods tend to perform better than a single classifier.
 

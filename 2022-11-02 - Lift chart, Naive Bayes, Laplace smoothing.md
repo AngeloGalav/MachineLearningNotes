@@ -18,10 +18,10 @@ The lift chart is especially useful when we have to work in batches.
 ## ROC Curve
 Keep in mind: Soft classifier = probabilistic classifier. 
 
-Let's consider that we have a lot of data, and it has some noise. Some of this noise alters our data, and we have to distinguish the data to extract knowledge from it. In particular, we have to distinguish between hit rate and false alarm in a noisy channel, and so the noise alters the two levels according to a _gaussian distribution_.
+Let's consider that we have a lot of data, and it has some noise. Some of this noise alters our data, and we have to distinguish the data to extract knowledge from it. In particular, we have to distinguish between hit rate and false alarm in a noisy channel, and so the noise alters the two levels according to a _Gaussian distribution_.
 We could impose a threshold to the values, but we would have some FP and FN.
 
-With less noise, the two gaussian curves are better separated. 
+With less noise, the two Gaussian curves are better separated. 
 ![[roc_gaussian.png]]
 
 Moving the threshold towards right increases both the rate of true positives and false positives caught. 
@@ -30,7 +30,7 @@ Moving the threshold towards right increases both the rate of true positives and
 
 What we could do is imposing multiple thresholds, using __threshold steps__. Varying the threshold the behavior of the classifier changes, by changing the ratio of TP and FP.
 
-So, the soft classifier (= probabilistic classifier) can be converted into a crisp one by choosing thresholds, in a ROC curve _the quality of the classifier_ is summarized by the __Area Under Curve__ (AUC) (the bigger the better). 
+So, the soft classifier (= probabilistic classifier) can be converted into a crisp one by choosing thresholds, in a ROC curve _the quality of the classifier_ is summarized by the __Area Under Curve__ (AUC) (the bigger, the better). 
 Here's how to choose the thresholds:
 ```
 sort the test elements by decreasing positive probability 
@@ -62,7 +62,7 @@ It is Naive, and based on the Bayes theorem:
 $$
 Pr(d_1 = v_1, d_2 = v_2 | c = c_x)= Pr(d_1 = v_1 | c = c_x) \cdot Pr(d_2 = v_2 | c = c_x)
 $$
-It consider the contibrution of all the attributes together (unlike DT which considers one attribute at a time). 
+It considers the contribution of all the attributes together (unlike DT which considers one attribute at a time). 
 We _assume_ that each attribute is __independent__ from each other (i.e. height and weight are not independent, but color of hair and weight is).
 
 Here's an example.
@@ -71,7 +71,7 @@ Given this data:
 
 We will have:
 ![[example_text.png]]
-(N.B.: we refer to likelihood of yes instead of probabiltity of yes since the values are not normalized, meaning that sum of the likelihood values is not 1). 
+(N.B.: we refer to likelihood of yes instead of probability of yes since the values are not normalized, meaning that sum of the likelihood values is not 1). 
 
 Each likelihood is calculated by using the probability of each possible event condition.
 
@@ -99,7 +99,7 @@ The Naive Bayes method is called _naive_ since the assumption of independence be
 
 ##### Drawbacks
 What if value $v$ of attribute $d$ never appears in the elements of class $c$?
-In this case we have that $Pr(d = v | c) = 0$ . ==This makes the probability of the class for that evidence drop to zero==, and we would need to overcast it, which we dont want. 
+In this case we have that $Pr(d = v | c) = 0$ . ==This makes the probability of the class for that evidence drop to zero==, and we would need to overcast it, which we don't want. 
 
 We need an alternative solution. 
 
@@ -133,11 +133,11 @@ $$
 
 In this case, ==the missing values do not affect the model==, and so it is not necessary to discard an instance with missing values (i.e., for decision trees, we cannot deal with missing values. In Naive-Bayes, if the value is missing (so, not 0!) we simply disregard the attribute). 
 
-Normally, we simpy discard that attratibute with the missing values (in both train and test instances), as if it was not present. The descriptive statistics are based on Known, non-null values. 
+Normally, we simply discard that attribute with the missing values (in both train and test instances), as if it was not present. The descriptive statistics are based on Known, non-null values. 
 - In test instances, it results in the likelihood will be higher for all the classes, but this is compensated by the normalization. 
 
 #### Numeric values
-With descrete values, frequencies are easy to count, and it is not so easy with real values. 
+With discrete values, frequencies are easy to count, and it is not so easy with real values. 
 Since the method is probabilistic, we assume a _Gaussian distribution of the values_. 
 From our data, we can easily compute the mean ($\micro$) and the variance ($\sigma$) inside each class. 
 ![[gaussian_distribution.png]]
@@ -148,9 +148,9 @@ From our data, we can easily compute the mean ($\micro$) and the variance ($\sig
 	- The value we use are, of course, rounded at some precision factor, and since that precision factor is the same for all the classes, then we can disregard it 
 - If numeric values are missing, mean and standard deviation are based only on the values that are present
 
-While these solutions have a excellent values in many cases, we would have a dramatic degradation if the simplistic conditions are not met. 
+While these solutions provide excellent results in many cases, we would have a dramatic degradation if the simplistic conditions are not met. 
 - Violation of independence – for instance, if an attribute is simply a copy of another (or a linear transformation), ==the weight of that particular feature is enforced== (something like squaring the probability)
-- Violation of gaussian distribution – use the standard probability estimation for the appropriate distribution, if known, or use estimation procedures, such as Kernel Density Estimation
+- Violation of Gaussian distribution – use the standard probability estimation for the appropriate distribution, if known, or use estimation procedures, such as Kernel Density Estimation
 
 ## Linear classification with Perceptron
 ![[perceptron.png]]
@@ -193,14 +193,14 @@ $$
 Therefore, ==the result will be less negative or, possibly, even positive==. It is analogous for a negative instance which was classified as positive (but _we subtract_!).
 
 The corrections are incremental and can interfere with previous updates.
-==The algorithm converges if the dataset is __linearly separable__==, otherwise it does not terminate. For practical applicability it is necessary to set an upper bound to the iterations.
+==The algorithm converges if the dataset is __linearly separable__==, otherwise it does not terminate. For practical applicability, it is necessary to set an upper bound to the iterations.
 
 Thanks to this method, we find one of the infinite possible solution. 
 
 ## Support vector machine (SVM)
 It's a mathematical machine that tries to solve the problem of non-separability (no hyperplane that can separate the data).
 
-A linear perceptron is inherently binary, since I can choose only one hyperplane (Naive-Bayes can deal with any number of values, so as we know it is not binary. This can also be seen in [[#Bayes theorem|this formula with the joint event]]) 
+A linear perceptron is inherently binary, since I can choose only one hyperplane (Naive-Bayes can deal with any number of values, so as we know it is not binary. This can also be seen in [[#Bayes theorem|this formula with the joint event]]). ==SVMs are also binary==.
 
 How to overcome the linear separability? We could simply give up on the linearity, by using a different shape outside of the hyperplane. i.e.  ![[Screenshot_20221102_135147.png]]
 
@@ -211,6 +211,7 @@ This method would have some drawbacks:
 
 #### SVM key ideas
 New efficient separability of non–linear functions that use __kernel functions__ to find the optimal parameter for separability, and so the problem of prediction shifted to a _function estimation_ problem.
+- It is not a greedy search, in which at each step we move towards the most promising solution (unlike DT, which are greedy). 
 
 The other idea is related to the following:
 - When we deal with hyperplanes, we have an infinite amount of solution:
@@ -225,3 +226,13 @@ If the margin of an hyperplane is small, it is more likely that an individual co
 The bigger is the margin, the safer is the behavior in respect of the new data that is similar to the older one. In this respect, it is essential to find the separation with the highest margin. 
 
 Finding the support vectors and the maximum margin hyperplane belongs to the well known class of constrained quadratic optimization problems. 
+
+#### Soft margin
+If the margin is 0, the first step is to find an hyperplane which almost separated the classes (or we disregard the examples which generate a very narrow margin). 
+![[narrow_margin.png]]
+
+This way:
+- Greater _robustness_ to individual observations.
+- _Better classification_ of _most_ of the training observations.
+
+A soft margin is obtained by adding a constraint to the optimization problem expressed by a single numeric parameter, usually called $C$. In this case, our $C$ is the _penalty_ parameter of the error term, and _controls the amount of overfitting_. Essentially, $C$ controls how much we are tolerant of bad classifications. 

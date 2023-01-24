@@ -8,16 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff323ce40ff6ed32",
+            "id": "cef8741c8e8cbb69",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "images/hyper_plane.png"
+                "file": "images/sigmoid_function.png"
+              }
+            }
+          },
+          {
+            "id": "cc8316060671137a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-09 - ❌3% - Ensemble methods.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overfitting",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6c39e1e4b18f9ea",
@@ -83,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/hyper_plane.png",
+                "file": "2022-11-09 - ❌3% - Ensemble methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/hyper_plane.png",
+                "file": "2022-11-09 - ❌3% - Ensemble methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/hyper_plane.png"
+                "file": "2022-11-09 - ❌3% - Ensemble methods.md"
               }
             }
           },
@@ -152,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5064ef657dcb8744",
+  "active": "cc8316060671137a",
   "lastOpenFiles": [
-    "images/roc_example.png",
-    "this formula.md",
-    "images/gaussian_distribution.png",
-    "2022-11-02 - Liftchart, NaiveBayes, Laplace smoothing.md",
-    "2022-11-04 - ❌15%.md",
-    "2022-10-21 - Classification I.md",
-    "2022-10-26 - Classification II.md",
-    "2022-10-19 -  The Data.md",
-    "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md",
-    "2022-11-09 - ❌3% - Ensemble methods.md"
+    "2022-11-04  - SVMs, Neural Networks.md",
+    "2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing.md",
+    "images/sigmoid_function.png",
+    "images/some_kernel_functions.png",
+    "images/svm_non_linear.png",
+    "images/kn_explanation.png",
+    "images/narrow_margin.png",
+    "images/decision_boundaries_examples.png",
+    "2022-11-09 - ❌3% - Ensemble methods.md",
+    "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md"
   ]
 }

@@ -178,8 +178,8 @@
     "function": {
       "function": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1674214013683
+          "count": 3,
+          "lastUpdated": 1674561948895
         }
       }
     },
@@ -242,8 +242,8 @@
     "threshold": {
       "threshold": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1674551221681
+          "count": 6,
+          "lastUpdated": 1674560261255
         }
       }
     },
@@ -254,8 +254,8 @@
           "lastUpdated": 1674229605673
         },
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1674557246336
+          "count": 2,
+          "lastUpdated": 1674569627953
         }
       }
     },
@@ -270,8 +270,8 @@
     "completely": {
       "completely": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1674229772189
+          "count": 3,
+          "lastUpdated": 1674559496900
         }
       }
     },
@@ -286,8 +286,8 @@
     "parameters": {
       "parameters": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1674231589333
+          "count": 2,
+          "lastUpdated": 1674561679370
         }
       }
     },
@@ -556,6 +556,10 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1674551180748
+        },
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1674570215044
         }
       }
     },
@@ -610,24 +614,28 @@
     "hyperplane": {
       "hyperplane": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1674557233631
+          "count": 5,
+          "lastUpdated": 1674558197184
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674558671186
         }
       }
     },
     "perceptron": {
       "perceptron": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1674555806159
+          "count": 2,
+          "lastUpdated": 1674561180483
         }
       }
     },
     "examples": {
       "examples": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1674556861548
+          "count": 3,
+          "lastUpdated": 1674568149066
         }
       }
     },
@@ -636,6 +644,150 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1674556975567
+        }
+      }
+    },
+    "Essential": {
+      "Essential": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674558453929
+        }
+      }
+    },
+    "which": {
+      "which": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674558667899
+        }
+      }
+    },
+    "situation": {
+      "situation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674558697302
+        }
+      }
+    },
+    "non-linear": {
+      "non-linear": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674558701982
+        }
+      }
+    },
+    "mathematical": {
+      "mathematical": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674558999528
+        }
+      }
+    },
+    "complexity": {
+      "complexity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674559502643
+        }
+      }
+    },
+    "behavior": {
+      "behavior": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674560431703
+        }
+      }
+    },
+    "between": {
+      "between": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674570218290
+        }
+      }
+    },
+    "sigmoid": {
+      "sigmoid": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674561741915
+        }
+      }
+    },
+    "propagate": {
+      "propagate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674561932134
+        }
+      }
+    },
+    "Training": {
+      "Training": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674562632879
+        }
+      }
+    },
+    "minima": {
+      "minima": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674563218825
+        }
+      }
+    },
+    "network": {
+      "network": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674564320380
+        }
+      }
+    },
+    "remarks": {
+      "remarks": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674564481685
+        }
+      }
+    },
+    "Overfitting": {
+      "Overfitting": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674567626242
+        }
+      }
+    },
+    "regularization": {
+      "regularization": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674567868331
+        }
+      }
+    },
+    "neighbors": {
+      "neighbors": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674569407415
+        }
+      }
+    },
+    "problem": {
+      "problem": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674569835371
         }
       }
     }
