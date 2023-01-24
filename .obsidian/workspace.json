@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/test_set_error.png"
+                "file": "images/hyper_plane.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/test_set_error.png",
+                "file": "images/hyper_plane.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/test_set_error.png",
+                "file": "images/hyper_plane.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/test_set_error.png"
+                "file": "images/hyper_plane.png"
               }
             }
           },
@@ -154,15 +154,15 @@
   },
   "active": "5064ef657dcb8744",
   "lastOpenFiles": [
-    "Screenshot_20230124_013314.png.md",
-    "images/real_cross_validation_example.png",
-    "images/K_rule_thumbs.png",
-    "images/beyond_3.png",
-    "2022-10-28 - Evaluation of performance of a classifier (Classification II).md",
-    "2022-11-02 - ❌60%.md",
-    "images/combination_strategies.png",
-    "images/f1_score_visualization.png",
-    "Screenshot_20230124_011940.png.md",
-    "2022-10-26 - Classification II.md"
+    "images/roc_example.png",
+    "this formula.md",
+    "images/gaussian_distribution.png",
+    "2022-11-02 - Liftchart, NaiveBayes, Laplace smoothing.md",
+    "2022-11-04 - ❌15%.md",
+    "2022-10-21 - Classification I.md",
+    "2022-10-26 - Classification II.md",
+    "2022-10-19 -  The Data.md",
+    "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md",
+    "2022-11-09 - ❌3% - Ensemble methods.md"
   ]
 }

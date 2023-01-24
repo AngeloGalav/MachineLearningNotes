@@ -98,8 +98,8 @@
     "values": {
       "values": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673381562554
+          "count": 2,
+          "lastUpdated": 1674554709749
         }
       }
     },
@@ -234,16 +234,16 @@
     "probability": {
       "probability": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1674522338716
+          "count": 6,
+          "lastUpdated": 1674550604789
         }
       }
     },
     "threshold": {
       "threshold": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1674224943387
+          "count": 5,
+          "lastUpdated": 1674551221681
         }
       }
     },
@@ -252,6 +252,10 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1674229605673
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674557246336
         }
       }
     },
@@ -386,8 +390,12 @@
     "frequency": {
       "frequency": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1674518846807
+          "count": 5,
+          "lastUpdated": 1674553936197
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674553939024
         }
       }
     },
@@ -516,6 +524,118 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1674522423088
+        }
+      }
+    },
+    "decreasing": {
+      "decreasing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674550603231
+        }
+      }
+    },
+    "positive": {
+      "positive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674550739442
+        }
+      }
+    },
+    "beginning": {
+      "beginning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674550751268
+        }
+      }
+    },
+    "distinguish": {
+      "distinguish": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674551180748
+        }
+      }
+    },
+    "Probability": {
+      "Probability": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674551718781
+        }
+      }
+    },
+    "probabilistic": {
+      "probabilistic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674551879982
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674552665519
+        }
+      }
+    },
+    "likelihood": {
+      "likelihood": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674553011628
+        }
+      }
+    },
+    "Naive-Bayes": {
+      "Naive-Bayes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674554470601
+        }
+      }
+    },
+    "weighted": {
+      "weighted": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674555480144
+        }
+      }
+    },
+    "hyperplane": {
+      "hyperplane": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1674557233631
+        }
+      }
+    },
+    "perceptron": {
+      "perceptron": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674555806159
+        }
+      }
+    },
+    "examples": {
+      "examples": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674556861548
+        }
+      }
+    },
+    "separability": {
+      "separability": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674556975567
         }
       }
     }
