@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
+                "file": "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e6c39e1e4b18f9ea",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
+                "file": "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
+                "file": "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-11 -  Preprocessing and dissimilarities.md"
+                "file": "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md"
               }
             }
           },
@@ -157,15 +156,15 @@
   },
   "active": "cd652b23f31c80fa",
   "lastOpenFiles": [
-    "images/similarity_binary_vecs.png",
-    "images/mahalanobis_distance.png",
-    "images/distance_.png",
-    "images/discretization_example.png",
-    "images/correlation.png",
-    "2022-11-11 -  Preprocessing and dissimilarities.md",
-    "images/curse_dimensionality_graph.png",
-    "2022-11-04  - SVMs, Neural Networks (Classification III).md",
     "2022-11-09 - Ensemble methods, Regression.md",
-    "2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md"
+    "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
+    "2022-11-11 -  Preprocessing and dissimilarities.md",
+    "2022-11-18 - ❌0% - idk.md",
+    "images/scaled_data.png",
+    "images/c_encode.png",
+    "2022-11-23 - ❌0%.md",
+    "2022-10-28 - Evaluation of performance of a classifier (Classification II).md",
+    "2022-11-25 - ❌0%.md",
+    "images/similarity_binary_vecs.png"
   ]
 }

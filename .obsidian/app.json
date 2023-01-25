@@ -15,6 +15,13 @@
     "OVO",
     "Adaboost",
     "Bruteforce",
-    "Chebyshev"
+    "Chebyshev",
+    "MinMax",
+    "scaler",
+    "Scikit-Learn",
+    "Undersampling",
+    "intra",
+    "Asperti",
+    "intra-cluster"
   ]
 }

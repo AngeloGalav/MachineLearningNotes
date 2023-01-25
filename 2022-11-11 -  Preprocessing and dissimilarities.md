@@ -175,7 +175,7 @@ In this graphs, we can see how the data in the $y$ axis is uniform, while the da
 - In the first case, we have many different thresholds which delimit the area of a label. But, this may ignore some data or patterns. 
 - Equal frequency means that the thresholds such that in each interval there will be the same amount of points. 
 
-# Similarity and dissimilarity
+# Similarity and dissimilarity (proximity functions)
 
 - __Similarity__ 
 	- _Numerical measure_ of _how alike_ two data objects are 

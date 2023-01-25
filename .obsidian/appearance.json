@@ -3,6 +3,7 @@
   "enabledCssSnippets": [
     "realistic-highlight",
     "test",
-    "colors"
+    "colors",
+    "img-grids-floats"
   ]
 }
