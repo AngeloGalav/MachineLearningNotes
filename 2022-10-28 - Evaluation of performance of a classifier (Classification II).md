@@ -5,7 +5,7 @@ When we evaluate a model, we must consider a number of properties, and accuracy 
 
 i.e. if I have a model that is used to classify oil spills, which are a very rare occurrence, if our model always says that there aren't any oil spills (even if they are), our model accuracy will still be 99%. 
 
-## Training set 
+## Hyperparameter tuning
 There's still the problem of _hyperparameter_ tuning. 
 As [[#Overfitting|we've seen]], in supervised learning, the training set performance is __overoptimistic__.
 
@@ -178,7 +178,7 @@ $$
 F1\_score = 2\dfrac{prec \cdot rec}{prec + rec}
 $$
 It is a value between 0 and 1. It increases when precision and recall are __balanced__.
-It is usually interesting when we want to find hte best compromise between precision and recall. 
+It is usually interesting when we want to find the best compromise between precision and recall. 
 ![[f1_score_visualization.png]]
 #### Multi-dimensional case
 ![[multi-dimensional_case.png]]

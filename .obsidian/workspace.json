@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9c0e5469b7c8898",
+        "id": "74ec86d98c799d44",
         "type": "tabs",
         "children": [
           {
-            "id": "cc8316060671137a",
+            "id": "cd652b23f31c80fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-14 - Initial concepts & vocabulary.md",
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6c39e1e4b18f9ea",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-14 - Initial concepts & vocabulary.md",
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-14 - Initial concepts & vocabulary.md",
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-14 - Initial concepts & vocabulary.md"
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md"
               }
             }
           },
@@ -154,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc8316060671137a",
+  "active": "cd652b23f31c80fa",
   "lastOpenFiles": [
-    "2022-11-09 - Ensemble methods, Regression.md",
-    "2022-10-14 - Initial concepts & vocabulary.md",
-    "2022-11-11 - ❌60% -  Preprocessing and dissimilarities.md",
-    "2022-11-16 - ❌0%.md",
-    "2022-11-25 - ❌0%.md",
-    "2022-11-23 - ❌0%.md",
-    "2022-11-18 - ❌0% - idk.md",
+    "images/similarity_binary_vecs.png",
+    "images/mahalanobis_distance.png",
+    "images/distance_.png",
+    "images/discretization_example.png",
+    "images/correlation.png",
+    "2022-11-11 -  Preprocessing and dissimilarities.md",
+    "images/curse_dimensionality_graph.png",
     "2022-11-04  - SVMs, Neural Networks (Classification III).md",
-    "2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md",
-    "2022-10-28 - Evaluation of performance of a classifier (Classification II).md"
+    "2022-11-09 - Ensemble methods, Regression.md",
+    "2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md"
   ]
 }

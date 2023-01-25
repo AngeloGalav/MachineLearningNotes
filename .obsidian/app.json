@@ -13,6 +13,8 @@
     "NNs",
     "OVR",
     "OVO",
-    "Adaboost"
+    "Adaboost",
+    "Bruteforce",
+    "Chebyshev"
   ]
 }

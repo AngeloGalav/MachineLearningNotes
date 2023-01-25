@@ -31,7 +31,7 @@ Here are some examples:
 - _Tuning is necessary_ to set the parameters (not discussed here) 
 - The results can be very accurate, because subtle and complex decision boundaries can be obtained 
 - Are not affected by local minima 
-- Do not suffer from the curse of dimensionality: do not use any notion of distance (we will see later).
+- Do not suffer from the [[2022-11-11 -  Preprocessing and dissimilarities#The curse of dimensionality|curse of dimensionality]]: do not use any notion of distance (we will see later).
 - SVMs do not directly provide probability estimates, these can be calculated using rather expensive estimation techniques. 
 	- nevertheless, SVM can produce a confidence score related to the distance of an example from the separation hyperplane.
 
