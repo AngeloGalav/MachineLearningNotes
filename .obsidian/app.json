@@ -22,6 +22,18 @@
     "Undersampling",
     "intra",
     "Asperti",
-    "intra-cluster"
+    "intra-cluster",
+    "medoid",
+    "proximities",
+    "clusterings",
+    "a-priori",
+    "recluster",
+    "Agglomerative",
+    "agglomerative",
+    "hyperspherical",
+    "recomputation",
+    "minPoints\n- ",
+    "DBSCAN",
+    "minPoints"
   ]
 }

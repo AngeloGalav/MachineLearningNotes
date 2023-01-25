@@ -4,11 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "74ec86d98c799d44",
+        "id": "319933da61c9bc7d",
         "type": "tabs",
         "children": [
           {
-            "id": "cd652b23f31c80fa",
+            "id": "75348405200d443b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/agdk_culo.png"
+              }
+            }
+          },
+          {
+            "id": "64e9bb4002aaf159",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/cluster_example.png"
+              }
+            }
+          },
+          {
+            "id": "0a402d1d6bb9d94d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/agdk_culo.png"
+              }
+            }
+          },
+          {
+            "id": "e274b27f0b7dd9d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a543ddd05d4607d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "confusion matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md"
+                "file": "README.md"
               }
             }
           },
@@ -154,17 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd652b23f31c80fa",
+  "active": "8a543ddd05d4607d",
   "lastOpenFiles": [
-    "2022-11-09 - Ensemble methods, Regression.md",
     "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
-    "2022-11-11 -  Preprocessing and dissimilarities.md",
-    "2022-11-18 - ❌0% - idk.md",
-    "images/scaled_data.png",
-    "images/c_encode.png",
-    "2022-11-23 - ❌0%.md",
+    "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
+    "README.md",
+    "images/separations_in_hierarchical.png",
+    "images/kde.png",
+    "images/dbsn_example.png",
+    "images/cluster_example.png",
+    "images/agdk_culo.png",
     "2022-10-28 - Evaluation of performance of a classifier (Classification II).md",
-    "2022-11-25 - ❌0%.md",
-    "images/similarity_binary_vecs.png"
+    "images/cohesion.png"
   ]
 }

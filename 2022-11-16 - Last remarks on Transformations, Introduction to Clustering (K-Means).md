@@ -88,7 +88,7 @@ Here's the centroid on the 2 previous clusters:
 # K-means
 
 ## Understanding K-Means
-\[This first part is only related to understanding the method. To skip directly to the definition, go [[|here]]\]
+\[This first part is only related to understanding the method. You can skip most of this if you already undestand\]
 
 Let's say that we have some data, which is distributed like this. 
 ![[data_example.png]]
