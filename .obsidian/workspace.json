@@ -11,9 +11,11 @@
             "id": "8a543ddd05d4607d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/table_example_2.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/table_example_2.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/table_example_2.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/table_example_2.png"
+                "file": "README.md"
               }
             }
           },
@@ -152,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5064ef657dcb8744",
+  "active": "8a543ddd05d4607d",
   "lastOpenFiles": [
+    "Intro.md",
+    "2022-10-14 - Initial concepts & vocabulary.md",
+    "README.md",
+    "images/table_example_2.png",
     "images/multi_to_mono.png",
     "2022-11-25 - Algorithms in Association rules.md",
     "images/sql_query.png",
     "images/leverage.png",
     "images/contingency_table.png",
-    "images/Screenshot_20221102_120527.png",
-    "images/Screenshot_20221102_135147.png",
-    "images/Screenshot_20230120_153127.png",
-    "images/Screenshot_20230125_163406.png",
-    "Screenshot_20230126_110749.png"
+    "images/Screenshot_20221102_120527.png"
   ]
 }

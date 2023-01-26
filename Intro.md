@@ -20,4 +20,4 @@ Course page: [here](https://www.unibo.it/en/teaching/course-unit-catalogue/cours
 - Ensemble learning, boosting, bagging
 - Association rules and the Apriori algorithm
 - Clustering/segmentation with k-means, dbscan, Expectation Maximization, hierarchical methods, kernel methods
--  Analysis of case studies
+- Analysis of case studies
