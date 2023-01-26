@@ -178,8 +178,8 @@
           "lastUpdated": 1674232465097
         },
         "currentVault": {
-          "count": 9,
-          "lastUpdated": 1674690172038
+          "count": 11,
+          "lastUpdated": 1674730610750
         }
       }
     },
@@ -230,8 +230,8 @@
     "represent": {
       "represent": {
         "currentVault": {
-          "count": 3,
-          "lastUpdated": 1674692332091
+          "count": 4,
+          "lastUpdated": 1674733608787
         }
       }
     },
@@ -1074,8 +1074,8 @@
           "lastUpdated": 1674591238757
         },
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1674694348910
+          "count": 3,
+          "lastUpdated": 1674733958174
         }
       }
     },
@@ -1234,8 +1234,8 @@
     "useful": {
       "useful": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1674638681640
+          "count": 2,
+          "lastUpdated": 1674732273705
         }
       }
     },
@@ -1452,6 +1452,10 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1674670101910
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674727841646
         }
       }
     },
@@ -1468,14 +1472,18 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1674670165181
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674727194780
         }
       }
     },
     "measures": {
       "measures": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1674670412978
+          "count": 2,
+          "lastUpdated": 1674732518953
         }
       }
     },
@@ -1670,8 +1678,8 @@
     "transaction": {
       "transaction": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1674692362459
+          "count": 3,
+          "lastUpdated": 1674733610232
         }
       }
     },
@@ -1688,6 +1696,10 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1674693300617
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674730825500
         }
       }
     },
@@ -1710,8 +1722,8 @@
     "itemset": {
       "itemset": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1674694022047
+          "count": 3,
+          "lastUpdated": 1674731530021
         }
       }
     },
@@ -1720,6 +1732,174 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1674694169703
+        }
+      }
+    },
+    "a-priori": {
+      "a-priori": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674725941307
+        }
+      }
+    },
+    "principle": {
+      "principle": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674725942738
+        }
+      }
+    },
+    "frequent": {
+      "frequent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674725954288
+        }
+      }
+    },
+    "infrequent": {
+      "infrequent": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1674729840846
+        }
+      }
+    },
+    "generation": {
+      "generation": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674730938360
+        }
+      }
+    },
+    "default": {
+      "default": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674727499152
+        }
+      }
+    },
+    "explained": {
+      "explained": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674728472604
+        }
+      }
+    },
+    "lexicographic": {
+      "lexicographic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674728676547
+        }
+      }
+    },
+    "candidates": {
+      "candidates": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674730275900
+        }
+      }
+    },
+    "database": {
+      "database": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674730741766
+        }
+      }
+    },
+    "\\emptyset": {
+      "\\emptyset": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674730954833
+        }
+      }
+    },
+    "\\implies": {
+      "\\implies": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674731046818
+        }
+      }
+    },
+    "rules": {
+      "rules": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674730992473
+        }
+      }
+    },
+    "\\rightarrow": {
+      "\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674731243904
+        }
+      }
+    },
+    "Measures": {
+      "Measures": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674731829164
+        }
+      }
+    },
+    "confidence": {
+      "confidence": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674732256763
+        }
+      }
+    },
+    "interestingness": {
+      "interestingness": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674732357291
+        }
+      }
+    },
+    "Statistics": {
+      "Statistics": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674732364302
+        }
+      }
+    },
+    "multidimensional": {
+      "multidimensional": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674732751432
+        }
+      }
+    },
+    "mono-dimensional": {
+      "mono-dimensional": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674733440358
+        }
+      }
+    },
+    "quantitative": {
+      "quantitative": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674733902179
         }
       }
     }

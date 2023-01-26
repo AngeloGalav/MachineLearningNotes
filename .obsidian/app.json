@@ -41,6 +41,12 @@
     "minsup",
     "Itemset",
     " itemse",
-    "Apriori"
+    "Apriori",
+    "ADE",
+    "Interestingness",
+    "Interestingness",
+    "interestingness",
+    "intra-attribute",
+    "booleans"
   ]
 }

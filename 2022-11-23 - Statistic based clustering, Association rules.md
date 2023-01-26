@@ -73,7 +73,7 @@ Computational cost increases with
 
 ----
 # Association Rules
-It is an unsupervised kind of activity. 
+It is an unsupervised kind of activity, and it used for making prediction on a transactional database. 
 
 ## Market basket example
 Given a set of commercial transactions, find _rules_ that _will predict_ the _occurrence of an item_ based on the _occurrences of other items_ in the transaction.
@@ -90,7 +90,7 @@ Some examples of association rules are:
 - {Beer, Bread} → {Milk}
 
 > [!WARNING]
-> These are __not__ logical rules, meaning that even if they are not true, they still hold some kind of weight or importance. 
+> These are __not__ logical rules, meaning that even if they are not true, they still hold some kind of weight or importance. Meaning, association rules are _quantified_, and not just true or false . 
 > For this reason, we consider the _strength_ of each rule. 
 
 ### Some definitions
