@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2022-10-21 - Classification I.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "random",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.0110321044922
+    "width": 230.0110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "e6c39e1e4b18f9ea",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2022-10-21 - Classification I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2022-10-21 - Classification I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2022-10-21 - Classification I.md"
               }
             }
           },
@@ -154,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a543ddd05d4607d",
+  "active": "5064ef657dcb8744",
   "lastOpenFiles": [
+    "2022-10-19 -  The Data.md",
+    "2022-10-21 - Classification I.md",
+    "README.md",
     "Intro.md",
     "2022-10-14 - Initial concepts & vocabulary.md",
-    "README.md",
     "images/table_example_2.png",
     "images/multi_to_mono.png",
     "2022-11-25 - Algorithms in Association rules.md",
     "images/sql_query.png",
-    "images/leverage.png",
-    "images/contingency_table.png",
-    "images/Screenshot_20221102_120527.png"
+    "images/leverage.png"
   ]
 }
