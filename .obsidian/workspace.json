@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-21 - Classification I.md",
+                "file": "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"entropy\"",
+                "query": "\"grid search\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-21 - Classification I.md",
+                "file": "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-21 - Classification I.md",
+                "file": "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-21 - Classification I.md"
+                "file": "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a543ddd05d4607d",
+  "active": "1425e72e0b870fff",
   "lastOpenFiles": [
+    "2022-11-09 - Ensemble methods, Regression.md",
+    "2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md",
     "2022-10-28 - Evaluation of performance of a classifier (Classification II).md",
+    "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
     "2022-10-21 - Classification I.md",
     "2022-10-19 -  The Data.md",
     "README.md",
     "Intro.md",
     "2022-10-14 - Initial concepts & vocabulary.md",
-    "images/table_example_2.png",
-    "images/multi_to_mono.png",
-    "2022-11-25 - Algorithms in Association rules.md",
-    "images/sql_query.png"
+    "images/table_example_2.png"
   ]
 }

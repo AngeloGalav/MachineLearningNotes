@@ -338,8 +338,8 @@
     "accuracy": {
       "accuracy": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1674234998310
+          "count": 2,
+          "lastUpdated": 1674901851456
         }
       }
     },
@@ -1900,6 +1900,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1674733902179
+        }
+      }
+    },
+    "clearly": {
+      "clearly": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674901770341
+        }
+      }
+    },
+    "paragraph": {
+      "paragraph": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674901855085
         }
       }
     }
