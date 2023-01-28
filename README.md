@@ -27,6 +27,7 @@ in Obsidian, which is pretty easy to do. I think this notes are best read on a l
 ## Tasks
 - [x] Write all notes
 - [ ] Render notes in PDF
+- [ ] Add Lab solutions
 - [ ] Add solutions to past exams
 - [ ] Add templates
 - [ ] Add "digests" of the notes (a summary basically)
