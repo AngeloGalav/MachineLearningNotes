@@ -256,7 +256,7 @@ _Border points_ which are _not connected_ by density _to any core_ point _are la
 Of course, if there are outliers, there might be a problem (connection between 2 clusters).
 
 ## How to set $\epsilon$ and `minPoints`?
-- As in many other machine learning algorithms, a grid search over several combinations of hyperparameters can be useful.
+- As in many other machine learning algorithms, a __grid search__ over _several combinations_ of _hyperparameters_ can be useful.
 - As a rule of thumb, you can try $minPoints = 2 * D$, the number of dimensions.
 - Noise suggest an increase in minPoints
 - A guess for $\epsilon$ requires more effort, considering the distance of the k–nearest neighbor, with $k = minPoints$
@@ -264,6 +264,7 @@ Of course, if there are outliers, there might be a problem (connection between 2
 - if I increase $\epsilon$, it means that I will look further, and some border points will become core points. 
 	- we have this same situation if instead of increase $\epsilon$ I decrease `minPoints`. 
 - Decreasing $\epsilon$ and increasing `minPoints` _reduces the cluster size_ and increases the number of _noise points_.
+
 ## Good guess for $\epsilon$ 
 Consider the vector of the __k-distances__:
 - choose k 

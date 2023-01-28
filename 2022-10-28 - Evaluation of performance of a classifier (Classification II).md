@@ -149,7 +149,7 @@ A _binary prediction_ is, for example, a case in which we have to predict if a c
 Let's consider a table like this one:
 ![[binary_prediction_table.png]]
 TP stands for True Positive, and FN stands for false negative, etc...
-This matrix/table is then extended and called a __confusion matrix__, with a frequency (i.e. a number of FPs) associated to each predicted class.   
+This matrix/table is then extended and called a __confusion matrix__, with a _frequency_ (i.e. a number of FPs) _associated to each predicted class_.  You can see this clearly in the "Beyond accuracy" paragraph below. 
 
 We can compute the accuracy as $$
 \dfrac{TP + TN}{N_{tests}} 
