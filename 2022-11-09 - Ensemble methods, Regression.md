@@ -117,7 +117,7 @@ The starting point of regression is __linear regression__.
 - Consider a dataset $X$ with $N$ rows and $D$ columns. 
 - $x_i$ is a $D$ dimensional data element
 - Consider then a response vector $\hat y$ with $N$ values $y_i$. 
-- $w$ is a $D$-dimensional vector of coefficients that _needs to be learned_. 
+- $w$ is a $D$-dimensional vector of __coefficients__ that _needs to be learned_ (the ==coefficients of the linear regression==). 
 
 - we ==model== the dependence of each response value $y_i$ from ==the corresponding independent variables== $x_i$ as
 ![[linear_regression.png]]
@@ -125,7 +125,7 @@ The starting point of regression is __linear regression__.
 
 ![[regression_visualization.png]]
 We see that the easiest approximation of the data in the image is a line. 
-The _score_ is obtained by computing the difference between each real value with its corresponding prediction, so it can formalized through an objective function that we wanto to minimize.
+The _score_ is obtained by computing the difference between each real value with its corresponding prediction, so it can formalized through an objective function that we want to minimize.
 
 #### Objective function in regression
 Our objective function that we want to minimize is:
@@ -140,7 +140,7 @@ If the symmetric matrix $X^TX$ is _invertible_ the solution can be derived as:
 $$
 w = (X^T X)^{-1}X^T y
 $$
-and the forecast is given by: $$y^f = X \cdot w^T$$
+and the __forecast__ ($y^f$) is given by: $$y^f = X \cdot w^T$$
 If $X^TX$ is not invertible, there could be issues. 
 
 ## Quality of the fitting
@@ -152,12 +152,19 @@ $$
 Where:
 ![[some_regression_definitions.png]]
 
+>[!WARNING]
+>The total sum of squares can be w.r.t. to the model ($SSM$, also called sum of squares for regression):
+>$$
+>SSM = \sum_i (y_i^{predicted} - y_i^{avg})^2
+>$$
+> or the to the total ($SST$): $$SST = \sum_i (y_i - y_i^{avg})^2$$
+
 $R^2$ is an absolute number, and it compares the fit of the chosen model with that of a horizontal straight line. Despite the name, it isn’t the square of anything. 
 If the model does not follow the trend of the data the numerator of the second term can reach or exceed the denominator. $R^2$ _can also be negative_.
 
 We could also use the __Sum of squared residuals__ as a QM, but it is strictly related to the size of the data.  
 
-Another surprising fact about $R^2$ is that we could see as the ratio between the actual error ($SS_{res}$) and the total sum of squares ($SS_{tot}$), subtracted from 1.
+Another surprising fact about $R^2$ is that we could see as the ratio between the actual error ($SS_{res}$) and the __total sum of squares__ ($SS_{tot}$), subtracted from 1.
 
 The _perfect value_ of $R^2$ would be _1_, since if $SS_{res} = 0$ then the prediction would not have any error whatsoever. 
 

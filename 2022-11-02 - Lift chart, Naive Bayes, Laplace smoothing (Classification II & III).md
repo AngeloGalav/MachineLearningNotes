@@ -107,7 +107,7 @@ We need an alternative solution.
 The basic idea of this other classifier is to _smooth_ the probability. 
 Let’s start ignoring the details of the dataset, we consider only the value domains, and we know that for a given attribute $d$ there are $V_d$ distinct values. 
 
-Then a simple guess for the frequency of each distinct value of $d$ in each class is $1/V_d$. 
+Then, _a simple guess_ for the frequency of each distinct value of $d$ in each class is $1/V_d$. 
 
 We can smooth the computation of the posterior probabilities of values inside a class balancing it with the prior probability.
 
@@ -149,8 +149,8 @@ From our data, we can easily compute the mean ($\micro$) and the variance ($\sig
 - If numeric values are missing, mean and standard deviation are based only on the values that are present
 
 While these solutions provide excellent results in many cases, we would have a dramatic degradation if the simplistic conditions are not met. 
-- Violation of independence – for instance, if an attribute is simply a copy of another (or a linear transformation), ==the weight of that particular feature is enforced== (something like squaring the probability)
-- Violation of Gaussian distribution – use the standard probability estimation for the appropriate distribution, if known, or use estimation procedures, such as Kernel Density Estimation
+- _Violation of independence_ – for instance, if an attribute is simply a copy of another (or a linear transformation), ==the weight of that particular feature is enforced== (something like squaring the probability)
+- _Violation of Gaussian distribution_ – use the standard probability estimation for the appropriate distribution, if known, or use estimation procedures, such as [[2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering#Kernel Density Estimation (KDE)|Kernel Density Estimation]]. 
 
 ## Linear classification with Perceptron
 ![[perceptron.png]]

@@ -286,10 +286,11 @@ Usually, datasets which exhibit some tendency to clustering exhibit also a chang
 Complexity is $O(N^2)$, reduced to $O(N log(N))$ if we use spatial indexes. 
 
 ## Kernel Density Estimation (KDE)
-- The overall density function is the sum of the _influence functions_ (or _kernel functions_) _associated with each point_.
+- The overall density function is the sum of the _influence functions_ (or __kernel functions__) _associated with each point_.
 	- The kernel function must be symmetric and monotonically decreasing
 	- usually has a parameter to set the decreasing rate
 - It's very good for vector spaces. 
+- KDE in particular is used as a way of smoothing a signal (or in this case, a noised dataset)
 ![[kde.png]]
 
 ### DENCLUE algorithm

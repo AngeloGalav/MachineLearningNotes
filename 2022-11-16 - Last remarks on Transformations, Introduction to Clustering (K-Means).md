@@ -98,7 +98,7 @@ To understand, let's use the metaphor of a transmission of data.
 - We transmit the coordinates of points, in particular we want to transmit where the points are distributed in the space. 
 - Allow only _two bits_ per point in _the transmission_, so it will be lossy 
 	- We need a coding/decoding mechanism.
-- The loss is equal to the _sum of the squared errors_ between the _real points_ and their _encoding/decoding_.
+- The loss is equal to the _sum of the squared errors_ ([[#Sum of squared errors|SSE]]) between the _real points_ and their _encoding/decoding_.
 	- The coding/decoding mechanism must minimize this loss.
 
 First idea for space representation:
@@ -116,7 +116,7 @@ We can even do better though!
 At this points, we can partition the points by using the [[2022-11-04  - SVMs, Neural Networks (Classification III)#K-nearest neighbors classifier (or KN).|k-nearest neighbors]] algorithm. 
 - _Each point_ finds _his nearest center_ and is labelled (i.e. colored) accordingly. 
 ![[initial_labeling.png]]
-Now that I have the coloring scheme, it is reasonable that each star is placed in a place that minimizes the loss (the centroid). 
+x_iNow that I have the coloring scheme, it is reasonable that each star is placed in a place that minimizes the loss (the centroid). 
 - For each center, _finds the centroid_ of its points, and _move there the center_.
 - ==Repeat the K-nearest neighbors classification==, and find the centroid again etc...
 
@@ -135,7 +135,8 @@ We are trying to optimize the _distortion_, frequently called in the literature/
 
 ![[distortion_definition.png]]
 N.B.: in our case, the encoding is the coloring (cluster), the decoding is the centroid. 
-
+- MEANS: _THE VALUE $X_i$ IS THE ACTUAL VALUE, WHILE $C_i$ is the approximation.  
+- or: $x_i$ is the value, $c_i$ is the cluster. 
 The _distortion_ is the value that we want to minimize. 
 Which properties are requested to $c_1, ..., c_K$ for the minimal distortion?
 1. $x_i$ must be encoded with the nearest center. 
