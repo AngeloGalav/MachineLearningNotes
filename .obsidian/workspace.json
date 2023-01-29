@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"SSM\"",
+                "query": "\"R^2\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a543ddd05d4607d",
+  "active": "1425e72e0b870fff",
   "lastOpenFiles": [
     "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
     "2022-11-09 - Ensemble methods, Regression.md",
