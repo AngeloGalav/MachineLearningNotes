@@ -1074,8 +1074,8 @@
           "lastUpdated": 1674591238757
         },
         "currentVault": {
-          "count": 3,
-          "lastUpdated": 1674733958174
+          "count": 4,
+          "lastUpdated": 1675080763504
         }
       }
     },
@@ -1418,8 +1418,8 @@
     "silhouette": {
       "silhouette": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1674661485443
+          "count": 3,
+          "lastUpdated": 1675080734597
         }
       }
     },
@@ -1502,8 +1502,8 @@
           "lastUpdated": 1674673618331
         },
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1674687286341
+          "count": 3,
+          "lastUpdated": 1675080762241
         }
       }
     },
@@ -1980,6 +1980,14 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1675012711727
+        }
+      }
+    },
+    "separate": {
+      "separate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1675080748415
         }
       }
     }
