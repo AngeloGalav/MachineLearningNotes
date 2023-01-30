@@ -1090,8 +1090,8 @@
     "particular": {
       "particular": {
         "currentVault": {
-          "count": 2,
-          "lastUpdated": 1674908882210
+          "count": 3,
+          "lastUpdated": 1675009411308
         }
       }
     },
@@ -1810,8 +1810,8 @@
     "database": {
       "database": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1674730741766
+          "count": 4,
+          "lastUpdated": 1675012681723
         }
       }
     },
@@ -1932,6 +1932,54 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1674929672997
+        }
+      }
+    },
+    "analysis": {
+      "analysis": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1675009927094
+        }
+      }
+    },
+    "mentioned": {
+      "mentioned": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1675001208107
+        }
+      }
+    },
+    "particularly": {
+      "particularly": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675009560599
+        }
+      }
+    },
+    "Javascript": {
+      "Javascript": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675012111922
+        }
+      }
+    },
+    "Technologies": {
+      "Technologies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675012553582
+        }
+      }
+    },
+    "MongoDB": {
+      "MongoDB": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675012711727
         }
       }
     }

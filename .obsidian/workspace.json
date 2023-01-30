@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-09 - Ensemble methods, Regression.md",
+                "file": "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ae01cfa3f1e07a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-09 - Ensemble methods, Regression.md",
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5017a6286863db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"R^2\"",
+                "query": "\"confusion matrix\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-09 - Ensemble methods, Regression.md",
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-09 - Ensemble methods, Regression.md",
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-09 - Ensemble methods, Regression.md"
+                "file": "2022-11-11 -  Preprocessing and dissimilarities.md"
               }
             }
           },
@@ -167,17 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1425e72e0b870fff",
+  "active": "e5017a6286863db4",
   "lastOpenFiles": [
-    "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
-    "2022-11-09 - Ensemble methods, Regression.md",
-    "2022-10-14 - Initial concepts & vocabulary.md",
-    "2022-11-04  - SVMs, Neural Networks (Classification III).md",
-    "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
-    "2022-10-28 - Evaluation of performance of a classifier (Classification II).md",
     "2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md",
-    "2022-10-26 - Classification II.md",
-    "2022-10-21 - Classification I.md",
-    "2022-11-11 -  Preprocessing and dissimilarities.md"
+    "2022-11-09 - Ensemble methods, Regression.md",
+    "2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
+    "2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
+    "2022-11-11 -  Preprocessing and dissimilarities.md",
+    "2022-11-23 - Statistic based clustering, Association rules.md",
+    "2022-11-25 - Algorithms in Association rules.md",
+    "Intro.md",
+    "images/Introduction & Info.md",
+    "README.md"
   ]
 }
