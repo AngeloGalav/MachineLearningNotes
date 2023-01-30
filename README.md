@@ -17,17 +17,18 @@ There are many features that may ease the process of learning this topics, such 
 - Syntax highlighting for important words and concepts.
 - Transcription of additional useful information told during the lessons.  
 - Explanations of images.     
-- Shortcuts to previously mentioned topics. 
+- Shortcuts to previously mentioned topics (they can only be used properly inside Obsidian though). 
 - And much more... 
 
 ## How to use the notes
-All the notes are written in __Obsidian Markdown__, but will be rendered to PDF in the near future. To read this properly, you'll need to import this repository as a vault 
-in Obsidian, which is pretty easy to do. I think this notes are best read on a laptop or tablet in the Obsidian app.     
+All the notes are written in __Obsidian Markdown__, and can be found in the `Notes/` folder. A PDF version can also be found. 
+To read this properly inside Obsidian, you'll need to import this repository as a vault, which is pretty easy to do.
+I think this notes are best read on a laptop or tablet, directly using the Obsidian app.     
 
 ## Tasks
 - [x] Write all notes
-- [ ] Render notes in PDF
-- [ ] Add Lab solutions
+- [x] Render notes in PDF
+- [x] Add Lab solutions
 - [ ] Add solutions to past exams
 - [ ] Add templates
 - [ ] Add "digests" of the notes (a summary basically)
