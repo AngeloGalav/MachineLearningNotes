@@ -72,6 +72,7 @@ What we have to do is find a shortcut.
 Requirements for a clustering quality score 
 - values are in a _standard range_, e.g. -1, 1 
 - _increases with the separation_ between clusters. 
+	- The higher the silhouette score, the more the clusters are well separated: it can be used as a QM for clustering technique. 
 - _decreases for clusters with low cohesion_, or, in other words, with _high sparsity_.
 
 The silhouette score is an _index_, meaning that _it does not have a measure_. 
@@ -220,7 +221,7 @@ Ok nice, but how do we actually define _the value_ for which a set of values is 
 Let's consider some data put in this way:
 ![[dbsn_example.png]]
 In this set, intuitively, $p$ is a border point, while $q$ is a core point.
-We define a ==radius $\epsilon$ ==and define as _neighborhood of a point_ the $\epsilon$–_hypersphere_ centered at that point.
+We define a ==__radius__ $\epsilon$ ==and define as _neighborhood of a point_ the $\epsilon$–_hypersphere_ centered at that point.
 Points $p$ and $q$ are one in the neighborhood of the other: neighborhood is symmetric.
 
 We then define a ==threshold `minPoints`== and define as _core_ a point with _at least `minPoints` points in its neighborhood_, as _border_ otherwise.
