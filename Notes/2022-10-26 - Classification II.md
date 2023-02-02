@@ -112,6 +112,8 @@ The minimum value is when all the records belong to the same class: 0.
 - We choose the split giving the maximum reduction of the Gini Index:
 ![[gini_split_formula.png]]
 
+The Gini Index can be used as an alternative for IG. 
+
 ### Algorithm for building DTs
 There are several variants of DT building algorithms.
 - We could also have tests based on linear combinations of numeric attributes, but these situation are very much complex. 

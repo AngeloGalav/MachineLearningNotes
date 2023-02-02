@@ -157,5 +157,167 @@ What happens if there are quantitative attributes?
 Simple, we use [[2022-11-11 -  Preprocessing and dissimilarities#Discretization|discretization]], with the techniques that we've used so far. 
 In this way we have the same dataset as in the previous example. 
 
+---
+# CRIPS Methodolgy
+Yes, this is the only part of Data Mining that the professors asks in the exam, so we gotta do it. It's pretty short though. 
+
+- Can Data Mining be a push–button technology? NO! Data mining is a process, that has steps and complex choices. 
+
+### Why we need a standard
+DM requires a lot of stuff: a mix of good tools and skilled analysts, a sound methodology and project management skills. 
+So, a standard is desirable since it provides:
+- a common reference point for discussions 
+- a common understanding between the designers and the customers 
+- a basis for good engineering practice 
+- checklists 
+- clarity for expectations
+
+## CRISP - CRoss Industry Standard Process for Data Mining
+It has a process comprised of various steps, that can be seen in this image:
+![[crisp.png]]
+
+### Business understanding
+It means:
+- reformulate the problem in many ways, as necessary 
+- think about the scenario 
+- iterative refinement of problem formulation and scenario
+
+##### Tasks in Business Understanding
+These item are in order:
+
+- Determine 
+	- Business Objectives 
+	- Background Business Objectives 
+	- Business Success Criteria 
+
+- Assess Situation 
+	- Inventory of Resources (or availability of resources)
+	- Requirements, Assumptions, and Constraints 
+	- Risks and Contingencies Terminology 
+	- Costs and Benefits
+
+- Determine Goals 
+	- Data Mining Goals
+	- Data Mining Success Criteria 
+
+- Produce Plan (the end of this phase)
+	- Project Plan
+	- Initial Assessment of Tools and Techniques
+
+### Data understanding
+- which raw data are available?
+	- they rarely match the problem needs 
+	- they are usually collected for different purposes (or for no purpose at all)
+	- a customer database, a transaction database, and a marketing response database contain different information, may cover different intersecting populations, and may have varying degrees of reliability
+	
+- at which cost?
+	- internal data are for free, external data may be not 
+	- interesting information may need to be collected with ad–hoc campaign 
+
+- possible forks in the project choices, according to the collected data
+
+##### Tasks of data understanding
+- Collect Initial Data
+	- Initial Data Collection Report
+
+- Describe Data
+	- Data Description Report 
+	
+- Explore Data
+	- Data Exploration Report
+
+- Verify Data Quality
+	- Data Quality Report
+
+### Data preparation
+- some analysis technique may require data transformations 
+	- converting to tabular format
+	- converting between data types
+		- e.g. from numeric to symbolic and viceversa
+	
+- some transformation can improve the quality of the results 
+	- normalization, scaling, guessing missing data, cleaning wrong data...
+	
+- data leaks 
+	- it is the case for supervised cases: the information necessary for the decision is not available at the decision time
+
+- this task is usually very expensive and time consuming
+
+
+##### Data Preparation – Tasks
+- Data Set 
+	- Data Set Description 
+
+- Select Data
+	- Rationale for Inclusion / Exclusion
+
+- Clean Data
+	- Data Cleaning Report
+
+- Construct Data
+	- Derived Attributes 
+	- Generated Records 
+
+- Integrate Data
+	- Merged Data
+
+- Format Data
+	- Reformatted Data
+
+### Modeling
+It is the stage in which we capture _patterns hidden_ in data.
+This step is essentially what we do normally in ML. 
+
+##### Modeling Tasks
+- Select Modeling Technique
+	- Modeling Technique 
+	- Modeling Assumptions 
+
+- Generate Test Design
+	- Test Design
+
+- Build Model
+	- Parameter Settings 
+	- Models 
+	- Model Description 
+
+- Assess Model
+	- Model Assessment
+	- Revised Parameter Settings
+
+### Evaluation
+- rigorous assessment of the results of the data mining process
+- compare different choices on a qualitative and quantitative basis 
+- evaluate the confidence of the derived models 
+- estimate the expected impact on the business 
+	- e.g. how many wrong decisions can we expect? which will be the cost of wrong decisions?
+	
+##### Evaluation tasks
+- Evaluate Results
+	- Assessment of Data Mining results w.r.t Business Success Criteria
+	- Approved models
+	
+- Review Process 
+	- Review of Process
+
+- Determine next steps
+	- List of possible actions
+	- Decisions
+
+### Deployment
+The results of the DM process (i.e. the models) are used in software systems to obtain some return of investments 
+- e.g. in churn analysis the model for predicting likelihood of churn can be integrated with a package for churn management, for instance sending special offers to selected customers considered high–risk of churn
+
+##### Deployment tasks
+- Plan Deployment 
+	- Deployment Plan
+- Plan Monitoring and Maintenance
+	- Monitoring and Maintenance Plan
+- Produce Final Report
+	- Final Report, Final Presentation 
+- Review Project
+	- Experience Documentation
+
+
 -----
 ## THE END!
