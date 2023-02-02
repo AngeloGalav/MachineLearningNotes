@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/2022-11-23 - Statistic based clustering, Association rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "543f714939af8922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"DBSCAN\"",
+                "query": "\"elbow method\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6c39e1e4b18f9ea",
@@ -155,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "012ab87a633298f4",
+  "active": "543f714939af8922",
   "lastOpenFiles": [
-    "Notes/2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
-    "Notes/2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
-    "Notes/2022-11-23 - Statistic based clustering, Association rules.md",
-    "Notes/2022-11-25 - Algorithms in Association rules.md",
-    "Notes/2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md",
     "Notes/2022-11-04  - SVMs, Neural Networks (Classification III).md",
-    "Notes/2022-11-09 - Ensemble methods, Regression.md",
+    "Notes/2022-11-23 - Statistic based clustering, Association rules.md",
+    "Notes/2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
+    "Notes/2022-10-14 - Initial concepts & vocabulary.md",
+    "Notes/2022-11-11 -  Preprocessing and dissimilarities.md",
+    "Notes/2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
+    "Notes/2022-11-25 - Algorithms in Association rules.md",
     "Notes/2022-10-28 - Evaluation of performance of a classifier (Classification II).md",
     "Notes/2022-10-21 - Classification I.md",
-    "Notes/2022-10-26 - Classification II.md"
+    "Notes/2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md"
   ]
 }

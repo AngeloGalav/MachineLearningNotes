@@ -195,7 +195,7 @@ With a noisy signal, the performance of the model is bad in every case.
 
 What we learn from this is that NNs behave very well in presence of noise. 
 
-## K-nearest neighbors classifier (or KN). 
+## K-nearest neighbors classifier (or KN, KNN). 
 While the other methods encode the knowledge in a model (i.e. DT or NNs), ==this method keeps all the training data== (i.e. the model is the entire training set). 
 It is the basis of clustering. 
 
