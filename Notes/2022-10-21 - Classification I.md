@@ -193,7 +193,7 @@ which means that is the sum between:
 
 In general, the new entropy will be smaller than the previous one. 
 
-### Information gain for binary split
+### Information Gain (IG) for binary split
 It is the _reduction of the entropy of a target class_ obtained with a _split of the dataset_ based on a threshold for a given attribute.
 We define $IG(c|d:t) = H(c) - H(c|d:t)$, it is the information gain provided when we know if, for an individual, $d$ exceeds the threshold $t$ in order to forecast the class value. 
 

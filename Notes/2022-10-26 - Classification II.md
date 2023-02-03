@@ -60,7 +60,7 @@ The situation shown in the figure happens with __ALL classification methods__, _
 So, our model must have like a slider that we must use to tune the behavior of the fitting.  
 In decision tree, we can tune the depth of the tree for example. 
 
-For example, let's consider the case in which both nodes in a decision tree have the same information gain. The fitting process needs to make a choice between the 2 variables, and Scikit learn chooses randomly. 
+For example, let's consider the case in which both nodes in a decision tree have the same information gain. The fitting process needs to make a choice between the 2 variables, and _Scikit learn chooses randomly_. 
 
 This can be seen when using the code:
 ```python
@@ -82,7 +82,7 @@ We are looking for the split generating the maximum __purity__. We need a measur
 - a node with two classes in the same proportion has low purity 
 - a node with only one class has highest purity
 
-A node with high purity means that it has a low diversity of labels, so a node with only one class has high purity. 
+A node with _high purity_ means that it has a _low diversity of labels_, so a node with only one class has high purity. 
 
 ### Impurity functions (measuring the impurity of a node)
 - [[2022-10-21 - Classification I#Entropy|Entropy]] ([[2022-10-21 - Classification I#Information gain for binary split|Information Gain]] instead guides us to chose the best split and measures the change of purity).  

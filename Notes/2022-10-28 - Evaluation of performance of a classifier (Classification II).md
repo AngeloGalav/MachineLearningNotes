@@ -171,7 +171,7 @@ For this reason, quite often an unbalanced dataset is provided, meaning that one
 #### A summary of measures 
 Here are also some aspects that we can measure:
 - _Precision_ = $TP/(TP + FP)$, it is the rate of true positives. 
-- _Recall_ = $TP/(TP + FN)$ , it is the complementary of the precision. i.e. the number of positives that I can catch (a.k.a. Sensitivity). 
+- _Recall_ = $TP/(TP + FN)$ , the number of positives that I can catch (a.k.a. Sensitivity). 
 - _Specificity_ = $TN/(TN  + FP)$ the rate of the negatives that I can catch. 
 - __F1 score__ (or F-measure) is given by the __harmonic mean__ of precision and recall:
 $$
