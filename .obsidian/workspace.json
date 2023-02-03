@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2022-10-26 - Classification II.md",
+                "file": "Notes/2022-10-19 -  The Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gini",
+                "query": "\"nominal\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2022-10-26 - Classification II.md",
+                "file": "Notes/2022-10-19 -  The Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2022-10-26 - Classification II.md",
+                "file": "Notes/2022-10-19 -  The Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2022-10-26 - Classification II.md"
+                "file": "Notes/2022-10-19 -  The Data.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "543f714939af8922",
   "lastOpenFiles": [
+    "Notes/2022-10-26 - Classification II.md",
+    "Notes/2022-11-23 - Statistic based clustering, Association rules.md",
     "Notes/2022-11-25 - Algorithms in Association rules.md",
     "Notes/2022-11-18 - Evaluation of a clustering algorithm, Hierarchical clustering, Density based clustering.md",
     "Notes/2022-11-04  - SVMs, Neural Networks (Classification III).md",
-    "Notes/2022-11-23 - Statistic based clustering, Association rules.md",
     "Notes/2022-10-14 - Initial concepts & vocabulary.md",
     "Notes/2022-11-11 -  Preprocessing and dissimilarities.md",
     "Notes/2022-11-16 - Last remarks on Transformations, Introduction to Clustering (K-Means).md",
     "Notes/2022-10-28 - Evaluation of performance of a classifier (Classification II).md",
-    "Notes/2022-10-21 - Classification I.md",
-    "Notes/2022-11-02 - Lift chart, Naive Bayes, Laplace smoothing (Classification II & III).md"
+    "Notes/2022-10-21 - Classification I.md"
   ]
 }
