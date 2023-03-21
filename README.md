@@ -29,9 +29,8 @@ I think this notes are best read on a laptop or tablet, directly using the Obsid
 - [x] Write all notes
 - [x] Render notes in PDF
 - [x] Add Lab solutions
-- [ ] Add solutions to past exams
-- [ ] Add templates
-- [ ] Add "digests" of the notes (a summary basically)
+- [x] Add solutions to (some) past exams
+- [x] Add templates
 
 ## How can I contribute?
 You can open a PR to:
