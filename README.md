@@ -3,7 +3,7 @@
 ## What is this?
 This repository contains all the material that I've used to study for the Machine Learning course in the MSc in AI @ UniBo (2022/2023).
 It contains a series of complete and comprehensive notes on ML, which explain the main techniques in Classification, Clustering, Association rules, etc.  
-In the near future, this repository will contain some solutions to the exercises in the previous exams, as well as code templates to use during the exam.   
+Additionally, it contains some solutions to the exercises of the previous exams, as well as some code templates to use during the exam.   
 
 I believe that the material in here __can be very useful to anyone__, not just students of this course. 
 
